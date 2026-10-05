@@ -1,0 +1,17 @@
+*.parquet
+*.geoparquet
+*.xlsx
+!final_tabula.xlsx
+nrw_results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.json
+!TRY_polygons.geojson
+!pilotprojects/ochtrup_polygon.json
+geothermie/geothermie_waermeleitfaehigkeit/
+geothermie/wasserschutzgebiete/
+zensus/
+*.parquet
+*.geoparquet
